@@ -804,6 +804,7 @@ ESP32_BOARD_PINS = {
     "ttgo-t1": {"LED": 22, "MISO": 2, "MOSI": 15, "SCK": 14, "SCL": 23, "SS": 13},
     "ttgo-t7-v13-mini32": {"LED": 22},
     "ttgo-t7-v14-mini32": {"LED": 19},
+    "twig": {"LED_RED": 32,"LED_GREEN": 33,"LED_BLUE": 26, "SDA": 37, "SCL": 38},
     "turta_iot_node": {},
     "vintlabs-devkit-v1": {
         "LED": 2,
